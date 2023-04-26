@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.ff016ef2.css",
-    "main.js": "/static/js/main.c9a337a3.js",
+    "main.css": "/static/css/main.02b69c0a.css",
+    "main.js": "/static/js/main.959cfdee.js",
     "static/media/FrederickatheGreat-Regular.ttf": "/static/media/FrederickatheGreat-Regular.69cef5dc99024da59d1e.ttf",
     "static/media/RubikMaze-Regular.ttf": "/static/media/RubikMaze-Regular.273830be2225851792ad.ttf",
     "static/media/RubikVinyl-Regular.ttf": "/static/media/RubikVinyl-Regular.22b1fe5789e386a0db07.ttf",
@@ -10,11 +10,11 @@
     "static/media/PermanentMarker-Regular.ttf": "/static/media/PermanentMarker-Regular.109a10dca0508e41aa12.ttf",
     "static/media/Ultra-Regular.ttf": "/static/media/Ultra-Regular.05ceaf656a698849a814.ttf",
     "index.html": "/index.html",
-    "main.ff016ef2.css.map": "/static/css/main.ff016ef2.css.map",
-    "main.c9a337a3.js.map": "/static/js/main.c9a337a3.js.map"
+    "main.02b69c0a.css.map": "/static/css/main.02b69c0a.css.map",
+    "main.959cfdee.js.map": "/static/js/main.959cfdee.js.map"
   },
   "entrypoints": [
-    "static/css/main.ff016ef2.css",
-    "static/js/main.c9a337a3.js"
+    "static/css/main.02b69c0a.css",
+    "static/js/main.959cfdee.js"
   ]
 }
