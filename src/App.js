@@ -1,15 +1,13 @@
 import "./App.css";
-import {TfiPrinter} from "react-icons/tfi"
-import {GiMarsCuriosity} from "react-icons/gi"
-import {FcMindMap} from "react-icons/fc"
-import {FcCommandLine} from "react-icons/fc"
+//  import {TfiPrinter} from "react-icons/tfi"
+import Logo from "./components/logo_letter/Logo";
 
 
 function App() {
   return (
     <div className="app">
-      <div className="logo">ARKAL <FcCommandLine className="curiosity" />  TECH</div>
-      NUESTROS SERVICIOS
+      <Logo />
+      {/* NUESTROS SERVICIOS
       <ul>
         <li>
           <TfiPrinter />
@@ -22,7 +20,7 @@ function App() {
           
            Y BLANCO Y NEGRO
         </li>
-      </ul>
+      </ul> */}
     </div>
   );
 }

@@ -1,0 +1,70 @@
+
+@font-face {
+    font-family:RubikMaze-Regular ;
+    src: url(../../RubikMaze-Regular.ttf);
+  }
+
+  @font-face {
+    font-family: ultraRegular;
+    src: url(../../Ultra-Regular.ttf);
+  }
+  @font-face {
+    font-family: permanenteMarker;
+    src: url(../../PermanentMarker-Regular.ttf);
+  }
+  
+  @font-face {
+    font-family: RubikVinyl-Regular;
+    src: url(../../RubikVinyl-Regular.ttf);
+  }
+  
+  @font-face {
+    font-family: Oi-Regular;
+    src: url(../../Oi-Regular.ttf);
+  }
+  
+  @font-face {
+    font-family:Fruktur-Italic ;
+    src: url(../../Fruktur-Italic.ttf);
+  }
+  
+  @font-face {
+    font-family:RubikMaze-Regular ;
+    src: url(../../RubikMaze-Regular.ttf);
+  }
+  @font-face {
+    font-family:FrederickatheGreat-Regular ;
+    src: url(../../FrederickatheGreat-Regular.ttf);
+  }
+
+.logo {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 4rem;
+    font-family: RubikMaze-Regular;
+    color: rgb(255, 255, 255);
+    font-weight: 500;
+    margin-top: 2rem;
+  }
+  
+  .curiosity {
+    width: 2rem;
+  }
+
+ .slogan {
+    font-size: 1.1rem;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: permanenteMarker;
+    margin-top: -15px;
+ }
+
+  @media screen and (max-width: 600px) {
+    .logo {
+        font-size: 3rem;
+    }
+  }
